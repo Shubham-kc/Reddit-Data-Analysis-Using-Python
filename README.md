@@ -1,2 +1,6 @@
 # Reddit-Data-Analysis-Using-Python
-This post is the first of a 4-part tutorial on extracting and analysing data from reddit. It is aimed at people completely new to working with JSON data. The parts are: 1. Setting up the environment. This week’s post will explain how to set up your environment with all the required packages in a way that lends itself to completely reproducible research. 2. Extracting the data. Next week, I will cover how to pull JSON-encoded data from reddit (using /r/relationships as my example) and put in into a pandas DataFrame for analysis. 3. Cleaning and describing the data. In two weeks I will demonstrate some data cleaning and basic descriptives in pandas. 4. Analysing the data. I will end in three weeks by setting up some basic hypotheses and testing them using pandas and scipy and showing some plotting in matplotlib.
+This project is on extracting and analysing data from reddit. It is aimed at people completely new to working with JSON data. The parts are:
+1. Setting up the environment. 
+2. Extracting the data from reddot.com.
+3. Cleaning and describing the data. 
+4. Analysing the data.
